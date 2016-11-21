@@ -1,0 +1,6 @@
+I did not think this assignment would be possible when I first read it. Complete confusion was
+running through my head. But after many Google searches and some help from other programmers(outside of
+the class), I slowly but surely pieced together code that outputs what I hope is correct. Like always the
+heart of the code lies in the function. I had to define my functions before going into any actually work.
+Then I took the extensive advice of using for loops and used them to my advantage. I even took the time to
+beautify it!
